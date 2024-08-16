@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&duration=3000&pause=1000&color=000000&width=435&lines=Welcome+to+Shuaiwen's+Github!)](https://git.io/typing-svg)
 
-![Shuaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuaiwen-Cui)
 
