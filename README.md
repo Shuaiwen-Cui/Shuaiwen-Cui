@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 
 ![Shuaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuaiwen-Cui)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaiwen-Cui)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Shuaiwen-Cui)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
