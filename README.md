@@ -16,7 +16,7 @@
 - 🚀 Website - **Shuaiwen-Cui.github.io** [https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git](https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git)
 - 🚀 Tech Blog - **Infinity** [https://github.com/Shuaiwen-Cui/Infinity.git](https://github.com/Shuaiwen-Cui/Infinity.git)
 
-### NEXUSIUM (🏗️)
+### Nexusium (🏗️)
 
 #### I Frontend
 
