@@ -16,7 +16,7 @@
 - 🚀 Website - **Shuaiwen-Cui.github.io** [https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git](https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git)
 - 🚀 Tech Blog - **Infinity** [https://github.com/Shuaiwen-Cui/Infinity.git](https://github.com/Shuaiwen-Cui/Infinity.git)
 
-### Nexusium (🏗️)
+### Nexusium (🏗️) - General Purpose IoT System
 
 #### I Frontend
 
@@ -27,3 +27,13 @@
 
 - 🚀 **NexHub** [https://github.com/Shuaiwen-Cui/NexHub.git](https://github.com/Shuaiwen-Cui/NexHub.git)
 
+### LiftSHM (🏗️) - Specialized IoT System for Structural Health Monitoring
+
+#### I Frontend
+
+- 🚀 **LiftNode**
+- 🚀 **TinySHM**
+
+#### II Backend
+
+- 🚀 **LiftHub**
