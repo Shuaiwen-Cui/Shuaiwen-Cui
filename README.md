@@ -16,6 +16,10 @@
 - 🚀 Website - **Shuaiwen-Cui.github.io** [https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git](https://github.com/Shuaiwen-Cui/Shuaiwen-Cui.github.io.git)
 - 🚀 Tech Blog - **Infinity** [https://github.com/Shuaiwen-Cui/Infinity.git](https://github.com/Shuaiwen-Cui/Infinity.git)
 
+### ESP STUDY
+
+- 🚀 **ESP_STUDY** [https://github.com/Shuaiwen-Cui/ESP_STUDY.git](https://github.com/Shuaiwen-Cui/ESP_STUDY.git) | [Online Doc](https://shuaiwen-cui.github.io/ESP_STUDY/)
+
 ### Nexusia (🏗️) - General Purpose IoT System
 
 #### I Frontend
