@@ -21,7 +21,7 @@
 #### I Frontend
 
 - 🚀 **NexNode** [https://github.com/Shuaiwen-Cui/NexNode.git](https://github.com/Shuaiwen-Cui/NexNode.git)
-- 🚀 **TinyAgent** [https://github.com/Shuaiwen-Cui/TinyAgent.git](https://github.com/Shuaiwen-Cui/TinyAgent.git)
+- 🚀 **TinyAuton** [https://github.com/Shuaiwen-Cui/TinyAuton.git](https://github.com/Shuaiwen-Cui/TinyAuton.git)
 
 #### II Backend
 
