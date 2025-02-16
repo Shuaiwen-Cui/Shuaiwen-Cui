@@ -20,7 +20,7 @@
 
 #### I Frontend
 
-- 🚀 **NexNode** [https://github.com/Shuaiwen-Cui/NexNode.git](https://github.com/Shuaiwen-Cui/NexNode.git)
+- 🚀 **NexNode** [https://github.com/Shuaiwen-Cui/NexNode.git](https://github.com/Shuaiwen-Cui/NexNode.git) | [Online Doc](https://shuaiwen-cui.github.io/NexNode/)
 - 🚀 **TinyAuton** [https://github.com/Shuaiwen-Cui/TinyAuton.git](https://github.com/Shuaiwen-Cui/TinyAuton.git)
 
 #### II Backend
