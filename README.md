@@ -22,6 +22,8 @@
 
 ### Nexusia (🏗️) - General Purpose IoT System
 
+![NEXUSIA](NEXUSIA.png)
+
 #### I Frontend
 
 - 🚀 **NexNode** [https://github.com/Shuaiwen-Cui/NexNode.git](https://github.com/Shuaiwen-Cui/NexNode.git) | [Online Doc](https://shuaiwen-cui.github.io/NexNode/)
