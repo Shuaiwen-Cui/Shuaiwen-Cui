@@ -31,7 +31,7 @@
 
 #### II Backend
 
-- 🚀 **NexHub** [https://github.com/Shuaiwen-Cui/NexHub.git](https://github.com/Shuaiwen-Cui/NexHub.git)
+- 🚀 **NexHub** [https://github.com/Shuaiwen-Cui/NexHub.git](https://github.com/Shuaiwen-Cui/NexHub.git) | [Online Doc](https://shuaiwen-cui.github.io/NexHub/)
 
 ### LiftSHM (🏗️) - Specialized IoT System for Structural Health Monitoring
 
