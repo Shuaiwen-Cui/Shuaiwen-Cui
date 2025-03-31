@@ -42,4 +42,4 @@
 
 #### II Backend
 
-- 🚀 **LiftHub**
+- 🚀 **LiftHub** [https://github.com/Shuaiwen-Cui/LiftHub.git](https://github.com/Shuaiwen-Cui/LiftHub.git) | [Online Doc](https://shuaiwen-cui.github.io/LiftHub/)
