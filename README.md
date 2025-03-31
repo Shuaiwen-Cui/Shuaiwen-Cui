@@ -37,7 +37,7 @@
 
 #### I Frontend
 
-- 🚀 **LiftNode**
+- 🚀 **LiftNode** [https://github.com/Shuaiwen-Cui/LiftNode_ESP32.git](https://github.com/Shuaiwen-Cui/LiftNode_ESP32.git) | [Onlien Doc](https://shuaiwen-cui.github.io/LiftNode_ESP32/)
 - 🚀 **TinySHM**
 
 #### II Backend
