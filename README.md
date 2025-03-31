@@ -20,7 +20,7 @@
 
 - 🚀 **ESP_STUDY** [https://github.com/Shuaiwen-Cui/ESP_STUDY.git](https://github.com/Shuaiwen-Cui/ESP_STUDY.git) | [Online Doc](https://shuaiwen-cui.github.io/ESP_STUDY/)
 
-### Nexusia (🏗️) - General Purpose IoT System
+### Nexusia - General Purpose IoT System
 
 ![NEXUSIA](NEXUSIA.png)
 
@@ -33,7 +33,7 @@
 
 - 🚀 **NexHub** [https://github.com/Shuaiwen-Cui/NexHub.git](https://github.com/Shuaiwen-Cui/NexHub.git) | [Online Doc](https://shuaiwen-cui.github.io/NexHub/)
 
-### LiftSHM (🏗️) - Specialized IoT System for Structural Health Monitoring
+### LiftSHM - Specialized IoT System for Structural Health Monitoring
 
 #### I Frontend
 
