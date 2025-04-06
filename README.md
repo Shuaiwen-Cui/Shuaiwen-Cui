@@ -44,4 +44,3 @@
 
 - 🚀 **LiftHub** [https://github.com/Shuaiwen-Cui/LiftHub.git](https://github.com/Shuaiwen-Cui/LiftHub.git) | [Online Doc](https://shuaiwen-cui.github.io/LiftHub/)
 
-![Shuaiwen-Cui's github activity graph](https://raw.githubusercontent.com/Shuaiwen-Cui/Shuaiwen-Cui/output/github-contribution-grid-snake.svg)
